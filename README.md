@@ -23,13 +23,13 @@ Ensure you have the following installed before running the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/priya-1022/dogecoin-analysis.git
+   git clone https://github.com/priya-1022/dogecoin-stock-price-data-analysis.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd dogecoin-analysis
+   cd dogecoin-stock-price-data-analysis
    ```
 
 3. Install required dependencies:
@@ -46,7 +46,7 @@ Ensure you have the following installed before running the project:
    jupyter notebook
    ```
 
-2. Open the `Dogecoin_Analysis.ipynb` notebook.
+2. Open the `Dogecoin-stock-price-data-analysis.ipynb` notebook.
 
 3. Run the cells to execute the analysis and visualize the Dogecoin stock price data.
 
