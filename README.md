@@ -63,7 +63,10 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Acknowledgments
 
-Special thanks to @Kaggle for providing the Dogecoin stock price data used in this project.
+Special thanks to ##Kaggle for providing the Dogecoin stock price data used in this project.
+
 Let's connect! Feel free to reach out if you have questions, suggestions, or just want to chat about Python and coding.
+
 You can find me on [LinkedIn](https://www.linkedin.com/in/priyakeshari/).
+
 Happy analyzing!
